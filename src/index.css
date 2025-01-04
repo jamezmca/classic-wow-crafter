@@ -1,0 +1,101 @@
+#root {
+  min-height: 100vh;
+}
+
+header,
+main,
+footer {
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+header {
+  padding-bottom: 0;
+}
+
+header,
+footer {
+  gap: 1rem;
+}
+
+main {
+  gap: 2rem;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* h1 {
+  padding-bottom: 1rem;
+} */
+
+.professions-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  flex: 1;
+}
+
+.profession-button {
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.sub-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* .sub-header {
+  padding-bottom: 0.5rem;
+} */
+
+.recipe-search {
+  width: 100%;
+  max-width: unset;
+}
+
+.recipe-line {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.recipe-line p {
+  flex: 1;
+}
+
+.recipe-line input {
+  width: 4rem;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.reagent {
+  text-transform: capitalize;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+@media (min-width: 640px) {
+  header {
+    padding-bottom: 1rem;
+  }
+}

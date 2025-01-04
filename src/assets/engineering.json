@@ -1,0 +1,1409 @@
+{
+    "Arcane Bomb": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 1,
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 3,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 1
+        }
+    },
+    "Arcanite Dragonling": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10576/mithril-mechanical-dragonling": 1,
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 8,
+            "https://www.wowhead.com/classic/item=12655/enchanted-thorium-bar": 10,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 6,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 4,
+            "https://www.wowhead.com/classic/item=12810/enchanted-leather": 6
+        }
+    },
+    "Biznicks 247x128 Accurascope": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=17011/lava-core": 2,
+            "https://www.wowhead.com/classic/item=7076/essence-of-earth": 2,
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 4,
+            "https://www.wowhead.com/classic/item=11371/dark-iron-bar": 6,
+            "https://www.wowhead.com/classic/item=16000/thorium-tube": 1
+        }
+    },
+    "Bloodvine Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=19726/bloodvine": 4,
+            "https://www.wowhead.com/classic/item=19774/souldarite": 5,
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 2,
+            "https://www.wowhead.com/classic/item=12804/powerful-mojo": 8,
+            "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4
+        }
+    },
+    "Bloodvine Lens": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=19726/bloodvine": 5,
+            "https://www.wowhead.com/classic/item=19774/souldarite": 5,
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 1,
+            "https://www.wowhead.com/classic/item=12804/powerful-mojo": 8,
+            "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4
+        }
+    },
+    "Core Marksman Rifle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=17010/fiery-core": 4,
+            "https://www.wowhead.com/classic/item=17011/lava-core": 2,
+            "https://www.wowhead.com/classic/item=12360/arcanite-bar": 6,
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 2,
+            "https://www.wowhead.com/classic/item=16000/thorium-tube": 2
+        }
+    },
+    "Field Repair Bot 74A": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 12,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1,
+            "https://www.wowhead.com/classic/item=7067/elemental-earth": 2,
+            "https://www.wowhead.com/classic/item=7068/elemental-fire": 1
+        }
+    },
+    "Flawless Arcanite Rifle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12360/arcanite-bar": 10,
+            "https://www.wowhead.com/classic/item=16000/thorium-tube": 2,
+            "https://www.wowhead.com/classic/item=7078/essence-of-fire": 2,
+            "https://www.wowhead.com/classic/item=7076/essence-of-earth": 2,
+            "https://www.wowhead.com/classic/item=12800/azerothian-diamond": 2,
+            "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2
+        }
+    },
+    "Force Reactive Disk": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12360/arcanite-bar": 6,
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 2,
+            "https://www.wowhead.com/classic/item=7082/essence-of-air": 8,
+            "https://www.wowhead.com/classic/item=12803/living-essence": 12,
+            "https://www.wowhead.com/classic/item=7076/essence-of-earth": 8
+        }
+    },
+    "Ultra-Flash Shadow Reflector": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=11371/dark-iron-bar": 8,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 4,
+            "https://www.wowhead.com/classic/item=12803/living-essence": 6,
+            "https://www.wowhead.com/classic/item=12808/essence-of-undeath": 4,
+            "https://www.wowhead.com/classic/item=12800/azerothian-diamond": 2,
+            "https://www.wowhead.com/classic/item=12799/large-opal": 2
+        }
+    },
+    "Hyper-Radiant Flame Reflector": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=11371/dark-iron-bar": 4,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 3,
+            "https://www.wowhead.com/classic/item=7080/essence-of-water": 6,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 4,
+            "https://www.wowhead.com/classic/item=12800/azerothian-diamond": 2
+        }
+    },
+    "Master Engineer's Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10500/fire-goggles": 1,
+            "https://www.wowhead.com/classic/item=12364/huge-emerald": 2,
+            "https://www.wowhead.com/classic/item=12810/enchanted-leather": 4
+        }
+    },
+    "Voice Amplification Modulator": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=16006/delicate-arcanite-converter": 2,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 1,
+            "https://www.wowhead.com/classic/item=12799/large-opal": 1
+        }
+    },
+    "Dark Iron Bomb": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=11371/dark-iron-bar": 1,
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 3
+        }
+    },
+    "Delicate Arcanite Converter": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12360/arcanite-bar": 1,
+            "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 1
+        }
+    },
+    "Thorium Shells": {
+        "quantities": 200,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 2,
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 1
+        }
+    },
+    "Dimensional Ripper - Everlook": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 10,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 1,
+            "https://www.wowhead.com/classic/item=7077/heart-of-fire": 4,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 2,
+            "https://www.wowhead.com/classic/item=10586/the-big-one": 1
+        }
+    },
+    "Ultrasafe Transporter - Gadgetzan": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 12,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 2,
+            "https://www.wowhead.com/classic/item=7075/core-of-earth": 4,
+            "https://www.wowhead.com/classic/item=7079/globe-of-water": 2,
+            "https://www.wowhead.com/classic/item=7909/aquamarine": 4,
+            "https://www.wowhead.com/classic/item=9060/inlaid-mithril-cylinder": 1
+        }
+    },
+    "Dark Iron Rifle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=16000/thorium-tube": 2,
+            "https://www.wowhead.com/classic/item=11371/dark-iron-bar": 6,
+            "https://www.wowhead.com/classic/item=10546/deadly-scope": 2,
+            "https://www.wowhead.com/classic/item=12361/blue-sapphire": 2,
+            "https://www.wowhead.com/classic/item=12799/large-opal": 2,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 4
+        }
+    },
+    "Firework Cluster Launcher": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=9060/inlaid-mithril-cylinder": 4,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 4,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 2,
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1
+        }
+    },
+    "Masterwork Target Dummy": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=16000/thorium-tube": 1,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 1,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 2,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 4
+        }
+    },
+    "Steam Tonk Controller": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1
+        }
+    },
+    "Thorium Tube": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 6
+        }
+    },
+    "Major Recombobulator": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=16000/thorium-tube": 2,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 1,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 2
+        }
+    },
+    "Powerful Seaforium Charge": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 2,
+            "https://www.wowhead.com/classic/item=159/refreshing-spring-water": 1
+        }
+    },
+    "Large Blue Rocket Cluster": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 1
+        }
+    },
+    "Large Green Rocket Cluster": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 1
+        }
+    },
+    "Large Red Rocket Cluster": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 1
+        }
+    },
+    "Spellpower Goggles Xtreme Plus": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10502/spellpower-goggles-xtreme": 1,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 4,
+            "https://www.wowhead.com/classic/item=12810/enchanted-leather": 2,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 8
+        }
+    },
+    "Goblin Jumper Cables XL": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 2,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 2,
+            "https://www.wowhead.com/classic/item=14227/ironweb-spider-silk": 2,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 2
+        }
+    },
+    "Lifelike Mechanical Toad": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12803/living-essence": 1,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 4,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 1
+        }
+    },
+    "Alarm-O-Bot": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 4,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=8170/rugged-leather": 4,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 1,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1
+        }
+    },
+    "Gyrofreeze Ice Reflector": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 6,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 2,
+            "https://www.wowhead.com/classic/item=12361/blue-sapphire": 2,
+            "https://www.wowhead.com/classic/item=7078/essence-of-fire": 4,
+            "https://www.wowhead.com/classic/item=3829/frost-oil": 2,
+            "https://www.wowhead.com/classic/item=13467/icecap": 4
+        }
+    },
+    "Thorium Grenade": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 1,
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 3,
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 3
+        }
+    },
+    "Thorium Rifle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 2,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 4,
+            "https://www.wowhead.com/classic/item=10546/deadly-scope": 1
+        }
+    },
+    "Thorium Widget": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 3,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 1
+        }
+    },
+    "Truesilver Transformer": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 2,
+            "https://www.wowhead.com/classic/item=7067/elemental-earth": 2,
+            "https://www.wowhead.com/classic/item=7069/elemental-air": 1
+        }
+    },
+    "World Enlarger": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 2,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=3864/citrine": 1
+        }
+    },
+    "Tranquil Mechanical Yeti": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15407/cured-rugged-hide": 1,
+            "https://www.wowhead.com/classic/item=15994/thorium-widget": 4,
+            "https://www.wowhead.com/classic/item=7079/globe-of-water": 2,
+            "https://www.wowhead.com/classic/item=18631/truesilver-transformer": 2,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1
+        }
+    },
+    "Mithril Mechanical Dragonling": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 14,
+            "https://www.wowhead.com/classic/item=7077/heart-of-fire": 4,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 4,
+            "https://www.wowhead.com/classic/item=9060/inlaid-mithril-cylinder": 2,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 2,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 2
+        }
+    },
+    "Salt Shaker": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=12359/thorium-bar": 6,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 4
+        }
+    },
+    "Dense Dynamite": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 3
+        }
+    },
+    "Snake Burst Firework": {
+        "quantities": 4,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=15992/dense-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=14047/runecloth": 2,
+            "https://www.wowhead.com/classic/item=8150/deeprock-salt": 1
+        }
+    },
+    "Dense Blasting Powder": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=12365/dense-stone": 2
+        }
+    },
+    "Goblin Rocket Helmet": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10543/goblin-construction-helmet": 1,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 4,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Green Lens": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 8,
+            "https://www.wowhead.com/classic/item=1529/jade": 3,
+            "https://www.wowhead.com/classic/item=7909/aquamarine": 3,
+            "https://www.wowhead.com/classic/item=10286/heart-of-the-wild": 2,
+            "https://www.wowhead.com/classic/item=8153/wildvine": 2
+        }
+    },
+    "Mithril Gyro-Shot": {
+        "quantities": 200,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 2,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 2
+        }
+    },
+    "Gnomish Death Ray": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=12808/essence-of-undeath": 1,
+            "https://www.wowhead.com/classic/item=7972/ichor-of-undeath": 4,
+            "https://www.wowhead.com/classic/item=9060/inlaid-mithril-cylinder": 1
+        }
+    },
+    "Goblin Dragon Gun": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 4,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 6,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 6,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Sniper Scope": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 1,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 2
+        }
+    },
+    "Gnomish Mind Control Cap": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 10,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 4,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 2,
+            "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 4
+        }
+    },
+    "Hi-Explosive Bomb": {
+        "quantities": 4,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 2,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 2
+        }
+    },
+    "The Big One": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 1,
+            "https://www.wowhead.com/classic/item=10507/solid-dynamite": 6,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Deepdive Helmet": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 8,
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 1,
+            "https://www.wowhead.com/classic/item=818/tigerseye": 4,
+            "https://www.wowhead.com/classic/item=774/malachite": 4
+        }
+    },
+    "Gnomish Battle Chicken": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 6,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 6,
+            "https://www.wowhead.com/classic/item=9060/inlaid-mithril-cylinder": 2,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=1529/jade": 2
+        }
+    },
+    "Rose Colored Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 6,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 2
+        }
+    },
+    "Goblin Bomb Dispenser": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 2,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 4,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 6,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=4407/accurate-scope": 2
+        }
+    },
+    "Firework Launcher": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=9060/inlaid-mithril-cylinder": 1,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1
+        }
+    },
+    "Gnomish Rocket Boots": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10026/black-mageweave-boots": 1,
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 8,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 4
+        }
+    },
+    "Goblin Rocket Boots": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10026/black-mageweave-boots": 1,
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 4,
+            "https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel": 2,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Parachute Cloak": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4339/bolt-of-mageweave": 4,
+            "https://www.wowhead.com/classic/item=10285/shadow-silk": 2,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 4
+        }
+    },
+    "Spellpower Goggles Xtreme": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 4,
+            "https://www.wowhead.com/classic/item=7910/star-ruby": 2
+        }
+    },
+    "Blue Rocket Cluster": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 1
+        }
+    },
+    "Green Rocket Cluster": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 1
+        }
+    },
+    "Red Rocket Cluster": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 1
+        }
+    },
+    "Goblin Mortar": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 5,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=7068/elemental-fire": 1
+        }
+    },
+    "Catseye Ultra Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 4,
+            "https://www.wowhead.com/classic/item=7909/aquamarine": 2,
+            "https://www.wowhead.com/classic/item=10592/catseye-elixir": 1
+        }
+    },
+    "Mithril Heavy-bore Rifle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 2,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=4400/heavy-stock": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 6,
+            "https://www.wowhead.com/classic/item=3864/citrine": 2
+        }
+    },
+    "Gnomish Harm Prevention Belt": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=7387/dusky-belt": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 2,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=7909/aquamarine": 2
+        }
+    },
+    "Mithril Casing": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 3
+        }
+    },
+    "Mithril Frag Bomb": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1
+        }
+    },
+    "Deadly Scope": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=7909/aquamarine": 2,
+            "https://www.wowhead.com/classic/item=4304/thick-leather": 2
+        }
+    },
+    "Gnomish Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10500/fire-goggles": 1,
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 2,
+            "https://www.wowhead.com/classic/item=8151/flask-of-mojo": 2,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 2
+        }
+    },
+    "Gnomish Net-o-Matic Projector": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=10285/shadow-silk": 2,
+            "https://www.wowhead.com/classic/item=4337/thick-spiders-silk": 4,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4
+        }
+    },
+    "Hi-Impact Mithril Slugs": {
+        "quantities": 200,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1
+        }
+    },
+    "Fire Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4385/green-tinted-goggles": 1,
+            "https://www.wowhead.com/classic/item=3864/citrine": 2,
+            "https://www.wowhead.com/classic/item=7068/elemental-fire": 2,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 4
+        }
+    },
+    "Gnomish Shrink Ray": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4,
+            "https://www.wowhead.com/classic/item=8151/flask-of-mojo": 4,
+            "https://www.wowhead.com/classic/item=1529/jade": 2
+        }
+    },
+    "Goblin Construction Helmet": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 8,
+            "https://www.wowhead.com/classic/item=3864/citrine": 1,
+            "https://www.wowhead.com/classic/item=7068/elemental-fire": 4
+        }
+    },
+    "Goblin Mining Helmet": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 8,
+            "https://www.wowhead.com/classic/item=3864/citrine": 1,
+            "https://www.wowhead.com/classic/item=7067/elemental-earth": 4
+        }
+    },
+    "Mithril Blunderbuss": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=4400/heavy-stock": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4,
+            "https://www.wowhead.com/classic/item=7068/elemental-fire": 2
+        }
+    },
+    "Goblin Sapper Charge": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Goblin Rocket Fuel Recipe": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10648/blank-parchment": 1,
+            "https://www.wowhead.com/classic/item=10647/engineers-ink": 1
+        }
+    },
+    "Inlaid Mithril Cylinder Plans": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10648/blank-parchment": 1,
+            "https://www.wowhead.com/classic/item=10647/engineers-ink": 1
+        }
+    },
+    "Lil' Smoky": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=7075/core-of-earth": 1,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 2,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 2,
+            "https://www.wowhead.com/classic/item=6037/truesilver-bar": 1
+        }
+    },
+    "Pet Bombling": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4394/big-iron-bomb": 1,
+            "https://www.wowhead.com/classic/item=7077/heart-of-fire": 1,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 6
+        }
+    },
+    "The Mortar: Reloaded": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10577/goblin-mortar": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 3
+        }
+    },
+    "Gnomish Cloaking Device": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 4,
+            "https://www.wowhead.com/classic/item=1529/jade": 2,
+            "https://www.wowhead.com/classic/item=1705/lesser-moonstone": 2,
+            "https://www.wowhead.com/classic/item=3864/citrine": 2,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1
+        }
+    },
+    "Mechanical Dragonling": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4382/bronze-framework": 1,
+            "https://www.wowhead.com/classic/item=4387/iron-strut": 4,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 4,
+            "https://www.wowhead.com/classic/item=3864/citrine": 2,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1
+        }
+    },
+    "Large Seaforium Charge": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 2,
+            "https://www.wowhead.com/classic/item=159/refreshing-spring-water": 1
+        }
+    },
+    "Mechanical Repair Kit": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 1,
+            "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1
+        }
+    },
+    "Unstable Trigger": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 1,
+            "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1
+        }
+    },
+    "EZ-Thro Dynamite II": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4338/mageweave-cloth": 2
+        }
+    },
+    "Goblin Land Mine": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=3575/iron-bar": 2,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 1
+        }
+    },
+    "Mithril Tube": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 3
+        }
+    },
+    "Big Iron Bomb": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3575/iron-bar": 3,
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=4404/silver-contact": 1
+        }
+    },
+    "SnowMaster 9000": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 8,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 4,
+            "https://www.wowhead.com/classic/item=17202/snowball": 4,
+            "https://www.wowhead.com/classic/item=3829/frost-oil": 1
+        }
+    },
+    "Craftsman's Monocle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+            "https://www.wowhead.com/classic/item=3864/citrine": 2
+        }
+    },
+    "Advanced Target Dummy": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4387/iron-strut": 1,
+            "https://www.wowhead.com/classic/item=4382/bronze-framework": 1,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 4
+        }
+    },
+    "Flash Bomb": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4611/blue-pearl": 1,
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4306/silk-cloth": 1
+        }
+    },
+    "Accurate Scope": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 1,
+            "https://www.wowhead.com/classic/item=1529/jade": 1,
+            "https://www.wowhead.com/classic/item=3864/citrine": 1
+        }
+    },
+    "Bright-Eye Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 6,
+            "https://www.wowhead.com/classic/item=3864/citrine": 2
+        }
+    },
+    "Compact Harvest Reaper Kit": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4387/iron-strut": 2,
+            "https://www.wowhead.com/classic/item=4382/bronze-framework": 1,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 2,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 4
+        }
+    },
+    "Gyromatic Micro-Adjustor": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3859/steel-bar": 4
+        }
+    },
+    "Iron Grenade": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3575/iron-bar": 1,
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4306/silk-cloth": 1
+        }
+    },
+    "Large Blue Rocket": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 1
+        }
+    },
+    "Large Green Rocket": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 1
+        }
+    },
+    "Large Red Rocket": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 1
+        }
+    },
+    "Solid Blasting Powder": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=7912/solid-stone": 2
+        }
+    },
+    "Solid Dynamite": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4306/silk-cloth": 1
+        }
+    },
+    "Gyrochronatom": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3575/iron-bar": 1,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1
+        }
+    },
+    "Portable Bronze Mortar": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 4,
+            "https://www.wowhead.com/classic/item=4387/iron-strut": 1,
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 4,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 4
+        }
+    },
+    "Goblin Jumper Cables": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3575/iron-bar": 6,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 2,
+            "https://www.wowhead.com/classic/item=814/flask-of-oil": 2,
+            "https://www.wowhead.com/classic/item=4306/silk-cloth": 2,
+            "https://www.wowhead.com/classic/item=1210/shadowgem": 2,
+            "https://www.wowhead.com/classic/item=7191/fused-wiring": 1
+        }
+    },
+    "Discombobulator Ray": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 3,
+            "https://www.wowhead.com/classic/item=4306/silk-cloth": 2,
+            "https://www.wowhead.com/classic/item=1529/jade": 1,
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 1
+        }
+    },
+    "Iron Strut": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3575/iron-bar": 2
+        }
+    },
+    "Ice Deflector": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 1,
+            "https://www.wowhead.com/classic/item=3829/frost-oil": 1
+        }
+    },
+    "Explosive Sheep": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4382/bronze-framework": 1,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 1,
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 2
+        }
+    },
+    "Green Tinted Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+            "https://www.wowhead.com/classic/item=1206/moss-agate": 2,
+            "https://www.wowhead.com/classic/item=4368/flying-tiger-goggles": 1
+        }
+    },
+    "Gold Power Core": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3577/gold-bar": 1
+        }
+    },
+    "Blue Firework": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 1
+        }
+    },
+    "Green Firework": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 1
+        }
+    },
+    "Red Firework": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=4234/heavy-leather": 1
+        }
+    },
+    "Aquadynamic Fish Attractor": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 2,
+            "https://www.wowhead.com/classic/item=6530/nightcrawlers": 1,
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 1
+        }
+    },
+    "Moonsight Rifle": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 3,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 3,
+            "https://www.wowhead.com/classic/item=4400/heavy-stock": 1,
+            "https://www.wowhead.com/classic/item=1705/lesser-moonstone": 2
+        }
+    },
+    "Bronze Framework": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 2,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 1,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 1
+        }
+    },
+    "Minor Recombobulator": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 1,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 2,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 2,
+            "https://www.wowhead.com/classic/item=1206/moss-agate": 1
+        }
+    },
+    "Big Bronze Bomb": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 3,
+            "https://www.wowhead.com/classic/item=4404/silver-contact": 1
+        }
+    },
+    "Ornate Spyglass": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 2,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 2,
+            "https://www.wowhead.com/classic/item=4363/copper-modulator": 1,
+            "https://www.wowhead.com/classic/item=1206/moss-agate": 1
+        }
+    },
+    "Silver-plated Shotgun": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 2,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 2,
+            "https://www.wowhead.com/classic/item=4400/heavy-stock": 1,
+            "https://www.wowhead.com/classic/item=2842/silver-bar": 3
+        }
+    },
+    "Gnomish Universal Remote": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 6,
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 1,
+            "https://www.wowhead.com/classic/item=814/flask-of-oil": 2,
+            "https://www.wowhead.com/classic/item=818/tigerseye": 1,
+            "https://www.wowhead.com/classic/item=774/malachite": 1
+        }
+    },
+    "Flame Deflector": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4375/whirring-bronze-gizmo": 1,
+            "https://www.wowhead.com/classic/item=4402/small-flame-sac": 1
+        }
+    },
+    "Whirring Bronze Gizmo": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 2,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 1
+        }
+    },
+    "Small Blue Rocket": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 1
+        }
+    },
+    "Small Green Rocket": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 1
+        }
+    },
+    "Small Red Rocket": {
+        "quantities": 3,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 1
+        }
+    },
+    "Crafted Solid Shot": {
+        "quantities": 200,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 1
+        }
+    },
+    "Heavy Blasting Powder": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2838/heavy-stone": 1
+        }
+    },
+    "Heavy Dynamite": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4377/heavy-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 1
+        }
+    },
+    "Lovingly Crafted Boomstick": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 2,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 2,
+            "https://www.wowhead.com/classic/item=4400/heavy-stock": 1,
+            "https://www.wowhead.com/classic/item=1206/moss-agate": 3
+        }
+    },
+    "Shadow Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 4,
+            "https://www.wowhead.com/classic/item=1210/shadowgem": 2
+        }
+    },
+    "Small Bronze Bomb": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 4,
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 2,
+            "https://www.wowhead.com/classic/item=4404/silver-contact": 1,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 1
+        }
+    },
+    "Standard Scope": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4371/bronze-tube": 1,
+            "https://www.wowhead.com/classic/item=1206/moss-agate": 1
+        }
+    },
+    "Deadly Blunderbuss": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4361/copper-tube": 2,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 4,
+            "https://www.wowhead.com/classic/item=4399/wooden-stock": 1,
+            "https://www.wowhead.com/classic/item=2319/medium-leather": 2
+        }
+    },
+    "Bronze Tube": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 2,
+            "https://www.wowhead.com/classic/item=2880/weak-flux": 1
+        }
+    },
+    "Large Copper Bomb": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 3,
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 4,
+            "https://www.wowhead.com/classic/item=4404/silver-contact": 1
+        }
+    },
+    "Flying Tiger Goggles": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2318/light-leather": 6,
+            "https://www.wowhead.com/classic/item=818/tigerseye": 2
+        }
+    },
+    "Small Seaforium Charge": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=4363/copper-modulator": 1,
+            "https://www.wowhead.com/classic/item=2318/light-leather": 1,
+            "https://www.wowhead.com/classic/item=159/refreshing-spring-water": 1
+        }
+    },
+    "EZ-Thro Dynamite": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 4,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 1
+        }
+    },
+    "Practice Lock": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 1,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 2,
+            "https://www.wowhead.com/classic/item=2880/weak-flux": 1
+        }
+    },
+    "Silver Contact": {
+        "quantities": 5,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2842/silver-bar": 1
+        }
+    },
+    "Target Dummy": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4363/copper-modulator": 1,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 2,
+            "https://www.wowhead.com/classic/item=2841/bronze-bar": 1,
+            "https://www.wowhead.com/classic/item=2592/wool-cloth": 1
+        }
+    },
+    "Mechanical Squirrel": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4363/copper-modulator": 1,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 1,
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 1,
+            "https://www.wowhead.com/classic/item=774/malachite": 2
+        }
+    },
+    "Coarse Dynamite": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 3,
+            "https://www.wowhead.com/classic/item=2589/linen-cloth": 1
+        }
+    },
+    "Coarse Blasting Powder": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2836/coarse-stone": 1
+        }
+    },
+    "Crafted Heavy Shot": {
+        "quantities": 200,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4364/coarse-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 1
+        }
+    },
+    "Copper Modulator": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 2,
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 1,
+            "https://www.wowhead.com/classic/item=2589/linen-cloth": 2
+        }
+    },
+    "Crude Scope": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4361/copper-tube": 1,
+            "https://www.wowhead.com/classic/item=774/malachite": 1,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 1
+        }
+    },
+    "Copper Tube": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 2,
+            "https://www.wowhead.com/classic/item=2880/weak-flux": 1
+        }
+    },
+    "Rough Boomstick": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4361/copper-tube": 1,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 1,
+            "https://www.wowhead.com/classic/item=4399/wooden-stock": 1
+        }
+    },
+    "Arclight Spanner": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 6
+        }
+    },
+    "Rough Copper Bomb": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 1,
+            "https://www.wowhead.com/classic/item=4359/handful-of-copper-bolts": 1,
+            "https://www.wowhead.com/classic/item=4357/rough-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=2589/linen-cloth": 1
+        }
+    },
+    "Handful of Copper Bolts": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 1
+        }
+    },
+    "Crafted Light Shot": {
+        "quantities": 200,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4357/rough-blasting-powder": 1,
+            "https://www.wowhead.com/classic/item=2840/copper-bar": 1
+        }
+    },
+    "Rough Dynamite": {
+        "quantities": 2,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=4357/rough-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=2589/linen-cloth": 1
+        }
+    },
+    "Rough Blasting Powder": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=2835/rough-stone": 1
+        }
+    },
+    "Explosive Arrow": {
+        "quantities": 100,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=3030/razor-arrow": 100,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 2
+        }
+    },
+    "Gnomish Ham Radio": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 2,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Goblin \"Boom\" Box": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=10505/solid-blasting-powder": 2,
+            "https://www.wowhead.com/classic/item=10558/gold-power-core": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 2
+        }
+    },
+    "Goblin Radio": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10561/mithril-casing": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 2,
+            "https://www.wowhead.com/classic/item=4389/gyrochronatom": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1
+        }
+    },
+    "Mobile Alarm": {
+        "quantities": 1,
+        "reagents": {
+            "https://www.wowhead.com/classic/item=10559/mithril-tube": 1,
+            "https://www.wowhead.com/classic/item=10560/unstable-trigger": 1,
+            "https://www.wowhead.com/classic/item=3860/mithril-bar": 4
+        }
+    }
+}
